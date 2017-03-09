@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
 <style>
@@ -16,7 +16,7 @@
 <meta charset="utf-8">
 <title>zuoye</title>
 </head>
-<body background="http://h5.86.cc/walls/20160408/1024x768_98e25962acee1e8.jpg">
+<body background="http://www.windows7en.com/uploads/140829/2009091908300061.jpg">
 <center>
 
 <div id="header">

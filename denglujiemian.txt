@@ -1,8 +1,8 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>登陆界面</title>
+<title>登录界面</title>
 <style>
 #header {
     text-align:center;
@@ -11,7 +11,7 @@
 }
 </style>
 </head>
-<body background="http://img.x-tu.cn/Uploads/Desk/2017/0107/116311070958117.jpg">
+<body background="http://www.windows7en.com/uploads/140829/2009091908300007.jpg">
 
 <div id="header">
 <h1>登录界面</h1>

@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
 <style>
@@ -17,6 +17,6 @@
 
 <p><a href="注册界面.html">点击注册</a></p>
 </div>
-<body background="http://h.hiphotos.baidu.com/image/w%3D400/sign=273128aa700e0cf3a0f74ffb3a47f23d/b17eca8065380cd726402755a344ad3459828128.jpg">
+<body background="http://www.windows7en.com/uploads/140829/2009091908300058.jpg">
 </body>
 </html>
