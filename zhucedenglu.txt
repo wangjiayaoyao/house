@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<style>
+#header {
+    text-align:center;
+    padding:160px 6px ;
+	}
+
+</style>
+
+<meta charset="utf-8">
+<title>登录注册界面</title>
+</head>
+<div id="header">
+<p><a href="登录界面.html">点击登录</a></p>
+
+<p><a href="注册界面.html">点击注册</a></p>
+</div>
+<body background="http://h.hiphotos.baidu.com/image/w%3D400/sign=273128aa700e0cf3a0f74ffb3a47f23d/b17eca8065380cd726402755a344ad3459828128.jpg">
+</body>
+</html>
