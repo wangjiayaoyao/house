@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<style>
+#header {
+    text-align:center;
+
+	color:red;
+}
+ #section {
+	text-align:center; 
+	color:rgba(255,255,255,1.00);
+} 
+</style>
+
+<meta charset="utf-8">
+<title>zuoye</title>
+</head>
+<body background="http://h5.86.cc/walls/20160408/1024x768_98e25962acee1e8.jpg">
+<center>
+
+<div id="header">
+<h1>注册界面</h1>
+</div>
+<div id="section">
+<p>
+姓名：
+<input style ="color:rgb(153, 153, 153);" type = "text" value="请填写姓名">
+</p>
+<p>
+用户名：
+<input style ="color:rgb(153, 153, 153);" type = "text" value="请填写用户名">
+</p>
+<p>
+密码：
+<input style ="color:rgb(153, 153, 153);" type = "text" value="请填写密码">
+</p>
+<p>
+手机号：
+<input style ="color:rgb(153, 153, 153);" type = "text" value="请填写手机号">
+</p>
+</div>
+
+
+
+</body>
+</html>
